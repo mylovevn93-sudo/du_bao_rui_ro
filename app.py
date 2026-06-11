@@ -120,7 +120,7 @@ with tf.sidebar:
 # ==========================================
 # THÀNH PHẦN 2: HEADER — VÙNG ĐỊNH HƯỚNG
 # ==========================================
-tf.title("🛡️ Hệ thống Phát hiện Giao dịch Gian lận & Rủi ro Mặc định")
+tf.title("🛡️ Hệ thống Phát hiện Giao dịch Gian lận & Rủi ro tại Agribank")
 tf.caption("Ứng dụng hỗ trợ phân tích dữ liệu giao dịch tài chính, tự động phát hiện các hành vi gian lận hoặc rủi ro dựa trên học máy.")
 
 if uploaded_file is None:
